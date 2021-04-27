@@ -1,295 +1,517 @@
 #EXTM3U
-#EXTINF:-1,BR: A&E HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43993.m3u8
-#EXTINF:-1,BR: AMC HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43994.m3u8
-#EXTINF:-1,BR: Arte 1 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43995.m3u8
-#EXTINF:-1,BR: AXN HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43996.m3u8
-#EXTINF:-1,BR: Cinemax HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43997.m3u8
-#EXTINF:-1,BR: Fox HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43998.m3u8
-#EXTINF:-1,BR: Fox Premium 1 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/43999.m3u8
-#EXTINF:-1,BR: Fox Premium 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44000.m3u8
-#EXTINF:-1,BR: FX HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44001.m3u8
-#EXTINF:-1,BR: HBO HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44002.m3u8
-#EXTINF:-1,BR: HBO Family HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44003.m3u8
-#EXTINF:-1,BR: HBO 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44004.m3u8
-#EXTINF:-1,BR: HBO Plus HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44005.m3u8
-#EXTINF:-1,BR: HBO Signature HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44006.m3u8
-#EXTINF:-1,BR: Max HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44007.m3u8
-#EXTINF:-1,BR: egapix HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44008.m3u8
-#EXTINF:-1,BR: Paramount Channel HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44009.m3u8
-#EXTINF:-1,BR: Sony Channel HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44010.m3u8
-#EXTINF:-1,BR: Space HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44011.m3u8
-#EXTINF:-1,BR: Studio Universal HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44012.m3u8
-#EXTINF:-1,BR: Syfy HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44013.m3u8
-#EXTINF:-1,BR: Tbs HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44014.m3u8
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/107091
+#EXTINF:-1,BR: TELECINE FUN HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/107090
+#EXTINF:-1,BR: Rede Metropole HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88794
+#EXTINF:-1,BR: Rede Metropole FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88795
+#EXTINF:-1,BR: TV Capital Lucelia FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88796
+#EXTINF:-1,BR: CANAL RICOS FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88797
+#EXTINF:-1,BR: NOVO TEMPO FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88798
+#EXTINF:-1,BR: Portal Cultura Pará FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88799
+#EXTINF:-1,BR: Terra Viva FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88800
+#EXTINF:-1,BR: TV Sol Comunidade FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88801
+#EXTINF:-1,BR: TV Terceiro Anjo FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88802
+#EXTINF:-1,BR: Viva Web TV FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88803
+#EXTINF:-1,BR: ALL Sports FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88804
+#EXTINF:-1,BR: Agro Brasil TV FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88805
+#EXTINF:-1,BR: CBN São Paulo FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88806
+#EXTINF:-1,BR: Rede Brasil de Comunicação FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88808
+#EXTINF:-1,BR: Rede Mão Amiga FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88809
+#EXTINF:-1,BR: Rede Século 21 FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88810
+#EXTINF:-1,BR: Canal Ricos
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88717
+#EXTINF:-1,BR: Rede Metropole
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88719
+#EXTINF:-1,BR: Summer TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88720
+#EXTINF:-1,BR: TV Capital Lucelia
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88721
+#EXTINF:-1,BR: TV Cultura PA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88723
+#EXTINF:-1,BR: TV Destak
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88724
+#EXTINF:-1,BR: TVCI
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88726
+#EXTINF:-1,BR: TVDS
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88727
+#EXTINF:-1,BR: Novo Tempo (Brazil)
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88728
+#EXTINF:-1,BR: TV BNO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88729
+#EXTINF:-1,BR: 13 MAX
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88730
+#EXTINF:-1,BR: CANAL 26
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88731
+#EXTINF:-1,BR: CPE TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88732
+#EXTINF:-1,BR: LATINA 94.5 ROSARIO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88733
+#EXTINF:-1,BR: Medios Rioja
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88734
+#EXTINF:-1,BR: Music Top
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88735
+#EXTINF:-1,BR: Fox Sports News
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88737
+#EXTINF:-1,BR: RTL-TVI
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88738
+#EXTINF:-1,BR: PAT Santa Cruz
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88739
+#EXTINF:-1,BR: Red Pat La Paz
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88740
+#EXTINF:-1,BR: TV Caxias
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88741
+#EXTINF:-1,BR: Canção Nova
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88742
+#EXTINF:-1,BR: CBN SAO PAULO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88743
+#EXTINF:-1,BR: COM BRAZIL
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88744
+#EXTINF:-1,BR: ITV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88745
+#EXTINF:-1,BR: METROPOLE NEWS TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88746
+#EXTINF:-1,BR: NOVA ERA TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88748
+#EXTINF:-1,BR: NOVO TEMPO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88749
+#EXTINF:-1,BR: PORTAL CULTURA PARA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88750
+#EXTINF:-1,BR: REDE BRAZIL DE COMUNICACAO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88751
+#EXTINF:-1,BR: REDE MAO AMIGO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88752
+#EXTINF:-1,BR: REDE TV MAIS
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88753
 #EXTINF:-1,BR: TCM HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44015.m3u8
-#EXTINF:-1,BR: Telecine Action HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44016.m3u8
-#EXTINF:-1,BR: Telecine Cult HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44017.m3u8
-#EXTINF:-1,BR: Telecine Fun HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44018.m3u8
-#EXTINF:-1,BR: TNT Series HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44019.m3u8
-#EXTINF:-1,BR: Universal HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44020.m3u8
-#EXTINF:-1,BR: Globo Brasilia HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44021.m3u8
-#EXTINF:-1,BR: Globo SP HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44022.m3u8
-#EXTINF:-1,BR: Boomerang HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44023.m3u8
-#EXTINF:-1,BR: Cartoon Network HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44024.m3u8
-#EXTINF:-1,BR: Discovery Kids HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44025.m3u8
-#EXTINF:-1,BR: Disney Channel HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44026.m3u8
-#EXTINF:-1,BR: Disney Jr HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44027.m3u8
-#EXTINF:-1,BR: Gloob HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44028.m3u8
-#EXTINF:-1,BR: Gloobinho HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44029.m3u8
-#EXTINF:-1,BR: Natgeo Kids HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44030.m3u8
-#EXTINF:-1,BR: Nick HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44031.m3u8
-#EXTINF:-1,BR: Nick Jr HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44032.m3u8
-#EXTINF:-1,BR: TV Ra Tim Bum HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44033.m3u8
-#EXTINF:-1,BR: Tooncast HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44034.m3u8
-#EXTINF:-1,BR: Zoomoo HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44035.m3u8
-#EXTINF:-1,BR: Band News HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44036.m3u8
-#EXTINF:-1,BR: Globo News HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44037.m3u8
-#EXTINF:-1,BR: Fox Life HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44038.m3u8
-#EXTINF:-1,BR: Animal Planet HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44039.m3u8
-#EXTINF:-1,BR: Natgeo HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44040.m3u8
-#EXTINF:-1,BR: TV J.Sid BA
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44041.m3u8
-#EXTINF:-1,BR: TV Brasil Df
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44042.m3u8
-#EXTINF:-1,BR: TVc 16 RJ
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44043.m3u8
-#EXTINF:-1,BR: Rede TV RJ
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44044.m3u8
-#EXTINF:-1,BR: TV Natal Rn
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44045.m3u8
-#EXTINF:-1,BR: V Gide
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44046.m3u8
-#EXTINF:-1,BR: Canal 24 Horas RS
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44047.m3u8
-#EXTINF:-1,BR: Rede TV SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44048.m3u8
-#EXTINF:-1,BR: Sbt SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44049.m3u8
-#EXTINF:-1,BR: Sbt Interior SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44050.m3u8
-#EXTINF:-1,BR: Summer TV SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44051.m3u8
-#EXTINF:-1,BR: TV Itapetininga SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44052.m3u8
-#EXTINF:-1,BR: CEak TV Esrita SP
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44053.m3u8
-#EXTINF:-1,BR: Band SP HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44054.m3u8
-#EXTINF:-1,BR: Sbt Cidade Verde HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44055.m3u8
-#EXTINF:-1,BR: ESPN 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44056.m3u8
-#EXTINF:-1,BR: ESPN Brasil HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44057.m3u8
-#EXTINF:-1,BR: ESPN Extra HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44058.m3u8
-#EXTINF:-1,BR: Fox Sports 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44059.m3u8
-#EXTINF:-1,BR: Fox SPorts HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44060.m3u8
-#EXTINF:-1,BR: Premiere 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44061.m3u8
-#EXTINF:-1,BR: Premiere 3 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44062.m3u8
-#EXTINF:-1,BR: Premiere 4 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44063.m3u8
-#EXTINF:-1,BR: Premiere 5 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44064.m3u8
-#EXTINF:-1,BR: Premiere 6 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44065.m3u8
-#EXTINF:-1,BR: Premiere 7 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44066.m3u8
-#EXTINF:-1,BR: Premiere Clubes HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44067.m3u8
-#EXTINF:-1,BR: SPorTV 2 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44068.m3u8
-#EXTINF:-1,BR: SPorTV 3 HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44069.m3u8
-#EXTINF:-1,BR: SPorTV HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44070.m3u8
-#EXTINF:-1,BR: Off HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44071.m3u8
-#EXTINF:-1,BR: Woohoo HD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44072.m3u8
-#EXTINF:-1,BR: Band
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44073.m3u8
-#EXTINF:-1,BR: Sbt
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44074.m3u8
-#EXTINF:-1,BR: Record Mg
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44075.m3u8
-#EXTINF:-1,BR: Record RJ
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44076.m3u8
-#EXTINF:-1,BR: Record RS
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44077.m3u8
-#EXTINF:-1,BR: Record TV
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44078.m3u8
-#EXTINF:-1,BR: Band Sports
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44079.m3u8
-#EXTINF:-1,BR: Combate
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44080.m3u8
-#EXTINF:-1,BR: ESPN Brasil
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44081.m3u8
-#EXTINF:-1,BR: ESPN Extra
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44082.m3u8
-#EXTINF:-1,BR: ESPN
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44083.m3u8
-#EXTINF:-1,BR: Fish TV
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44084.m3u8
-#EXTINF:-1,BR: Fox Sports 2
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44085.m3u8
-#EXTINF:-1,BR: Fox Sports
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44086.m3u8
-#EXTINF:-1,BR: SporTV 2
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44087.m3u8
-#EXTINF:-1,BR: SporTV 3
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44088.m3u8
-#EXTINF:-1,BR: SporTV
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44089.m3u8
-#EXTINF:-1,BR: Off
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44090.m3u8
-#EXTINF:-1,BR: Woohoo
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44091.m3u8
-#EXTINF:-1,BR: A&E
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44092.m3u8
-#EXTINF:-1,BR: Arte 1
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44093.m3u8
-#EXTINF:-1,BR: AXN
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44094.m3u8
-#EXTINF:-1,BR: Fox
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44096.m3u8
-#EXTINF:-1,BR: FX
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44097.m3u8
-#EXTINF:-1,BR: HBO 2
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44098.m3u8
-#EXTINF:-1,BR: HBO Family
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44099.m3u8
-#EXTINF:-1,BR: HBO Plus
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44100.m3u8
-#EXTINF:-1,BR: HBO Signature
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44101.m3u8
-#EXTINF:-1,BR: Max
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44102.m3u8
-#EXTINF:-1,BR: Max Prime
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44103.m3u8
-#EXTINF:-1,BR: Max Up
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44104.m3u8
-#EXTINF:-1,BR: Megapix
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44105.m3u8
-#EXTINF:-1,BR: Paramount Channel
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44106.m3u8
-#EXTINF:-1,BR: Sony
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44107.m3u8
-#EXTINF:-1,BR: Space
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44108.m3u8
-#EXTINF:-1,BR: Studio Universal
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44109.m3u8
-#EXTINF:-1,BR: Syfy
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44110.m3u8
-#EXTINF:-1,BR: TCM
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44111.m3u8
-#EXTINF:-1,BR: Telecine Cult
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44113.m3u8
-#EXTINF:-1,BR: Telecine Fun
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44114.m3u8
-#EXTINF:-1,BR: Telecine Premium
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44115.m3u8
-#EXTINF:-1,BR: Telecine Touch
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44116.m3u8
-#EXTINF:-1,BR: TNT SD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44117.m3u8
-#EXTINF:-1,BR: TNT Series
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44118.m3u8
-#EXTINF:-1,BR: Universal Channel
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44119.m3u8
-#EXTINF:-1,BR: Warner Channel
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44120.m3u8
-#EXTINF:-1,BR: Baby TV
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44121.m3u8
-#EXTINF:-1,BR: Boomerang
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44122.m3u8
-#EXTINF:-1,BR: Comedy CEntral
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44124.m3u8
-#EXTINF:-1,BR: Discovery Kids
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44125.m3u8
-#EXTINF:-1,BR: Disney Channel
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44126.m3u8
-#EXTINF:-1,BR: Disney Junior
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44127.m3u8
-#EXTINF:-1,BR: Disney XD
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44128.m3u8
-#EXTINF:-1,BR: Gloob
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44129.m3u8
-#EXTINF:-1,BR: Gloobinho
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44130.m3u8
-#EXTINF:-1,BR: Natgeo Kids
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44131.m3u8
-#EXTINF:-1,BR: Nick JR
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44132.m3u8
-#EXTINF:-1,BR: Nickelodeon
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44133.m3u8
-#EXTINF:-1,BR: TV Ra Tim Bum
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44134.m3u8
-#EXTINF:-1,BR: Zoomoo
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44135.m3u8
-#EXTINF:-1,BR: Band and News
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44136.m3u8
-#EXTINF:-1,BR: Cnt
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44138.m3u8
-#EXTINF:-1,BR: Record News
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44139.m3u8
-#EXTINF:-1,BR: V5
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44140.m3u8
-#EXTINF:-1,BR: Viva
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44141.m3u8
-#EXTINF:-1,BR: E!
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44142.m3u8
-#EXTINF:-1,BR: Natgeo Wild
-http://tvla.xyz:80/live/irresnzc/250ztFpw2K/44143.m3u8
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88754
+#EXTINF:-1,BR: TERRA VIVA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88755
+#EXTINF:-1,BR: TV CIDADE DE PETROPOLIS
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88756
+#EXTINF:-1,BR: TV DIARIO DO SERTAO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88757
+#EXTINF:-1,BR: TV BRASIL ANIMADA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88758
+#EXTINF:-1,BR: TV PAI ETERNO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88759
+#EXTINF:-1,BR: TV PARANA TURISMO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88760
+#EXTINF:-1,BR: TV SOL COMUNIDADE
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88761
+#EXTINF:-1,BR: TV TERCEIRO ANJO
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88762
+#EXTINF:-1,BR: TV UNIAO DF
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88763
+#EXTINF:-1,BR: VIVA WEB TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88764
+#EXTINF:-1,BR: WEB TV SANTANA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88765
+#EXTINF:-1,BR: TV Educativa de Porto Alegre
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88767
+#EXTINF:-1,BR: Agro Brasil TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88768
+#EXTINF:-1,BR: ALL Sports
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88769
+#EXTINF:-1,BR: Rede Brasil de Comunicação
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88770
+#EXTINF:-1,BR: Rede Mão Amiga
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88771
+#EXTINF:-1,BR: Rede Século 21
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88772
+#EXTINF:-1,BR: Sobrenatural TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88773
+#EXTINF:-1,BR: TV Ambiental
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88774
+#EXTINF:-1,BR: TV Arapuan
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88776
+#EXTINF:-1,BR: TV Carioca
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88777
+#EXTINF:-1,BR: TV Cinec
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88779
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88780
+#EXTINF:-1,BR: TV Maná Moçambique
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88781
+#EXTINF:-1,BR: TV UFSC
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88783
+#EXTINF:-1,BR: TVE Bahia
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88785
+#EXTINF:-1,BR: TVN Brasil
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88786
+#EXTINF:-1,BR: Web TV Uai
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88787
+#EXTINF:-1,BR: Yeeaah!
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88788
+#EXTINF:-1,BR: t.me/tvlab ZOOM
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88789
+#EXTINF:-1,BR: CBN Rio
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88790
+#EXTINF:-1,BR: Canal 25 Jundiaí
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88791
+#EXTINF:-1,BR: FURG TV
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88792
+#EXTINF:-1,BR: Rede RC
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/88793
+#EXTINF:-1,Br- A&E HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32855
+#EXTINF:-1,Br- AMC HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32856
+#EXTINF:-1,Br- Animal Planet HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32857
+#EXTINF:-1,Br- Arte 1 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32858
+#EXTINF:-1,Br- AXN HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32859
+#EXTINF:-1,Br- Band Sport HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32861
+#EXTINF:-1,Br- Band News HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32862
+#EXTINF:-1,Br- Band Sports HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33245
+#EXTINF:-1,Br- Bis HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32865
+#EXTINF:-1,Br- Boomerang HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32866
+#EXTINF:-1,Br- Combate HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32870
+#EXTINF:-1,Br- Comedy Central HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32871
+#EXTINF:-1,Br- Curta! HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32873
+#EXTINF:-1,BR- Discovery Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32874
+#EXTINF:-1,Br- HGTV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32875
+#EXTINF:-1,Br- Discovery
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32876
+#EXTINF:-1,Br- Discovery Kids HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32877
+#EXTINF:-1,Br- Discovery Science HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32878
+#EXTINF:-1,Br- Discovery Theater HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32879
+#EXTINF:-1,Br- Discovery TLC HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32880
+#EXTINF:-1,Br- Discovery Turbo HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32881
+#EXTINF:-1,Br- Discovery World HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32882
+#EXTINF:-1,Br- Disney Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32883
+#EXTINF:-1,Br- Disney Junior Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32884
+#EXTINF:-1,Br- Disney XD HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32885
+#EXTINF:-1,Br- E! HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32886
+#EXTINF:-1,Br- REDE TV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32887
+#EXTINF:-1,Br- ESPN 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33271
+#EXTINF:-1,Br- ESPN Brasil HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33272
+#EXTINF:-1,Br- ESPN HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33280
+#EXTINF:-1,Br- Fish TV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32891
+#EXTINF:-1,Br- Food Network HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32892
+#EXTINF:-1,BR- Fox HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32893
+#EXTINF:-1,Br- Fox Life HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32894
+#EXTINF:-1,Br- Fox Premium 1 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32895
+#EXTINF:-1,Br- Fox Premium 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32896
+#EXTINF:-1,Br- Fox Sports 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33276
+#EXTINF:-1,Br- Fox Sports HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33277
+#EXTINF:-1,Br- Futura HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32900
+#EXTINF:-1,Br- FX HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32901
+#EXTINF:-1,Br- Globo Anhanguera Goiania SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32902
+#EXTINF:-1,Br- Globo Brasilia SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32903
+#EXTINF:-1,Br- GLOBO PORTUGAL
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32904
+#EXTINF:-1,Br- Globo EPTV Campinas HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32905
+#EXTINF:-1,Br- Globo EPTV Sao Carlos SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32906
+#EXTINF:-1,Br- Globo Internacional SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32907
+#EXTINF:-1,Br- Globo Minas HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32908
+#EXTINF:-1,Br- Globo News HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32909
+#EXTINF:-1,Br- Globo Nordeste Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32910
+#EXTINF:-1,Br- Globo Nordeste HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32911
+#EXTINF:-1,Br- Globo RBS Porto Alegre SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32912
+#EXTINF:-1,Br- GLOBO SP TV TRIBUNA FHD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32913
+#EXTINF:-1,Br- Globo Ribeirao Preto SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32914
+#EXTINF:-1,Br- Globo RJ HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32915
+#EXTINF:-1,Br- Globo RPC TV SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32916
+#EXTINF:-1,Br- Globo SP HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32918
+#EXTINF:-1,Br- Globo TV Bahia SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32919
+#EXTINF:-1,Br- Globo TV Tem Sorocaba SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32922
+#EXTINF:-1,Br- Globo TV Tribuna Santos SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32923
+#EXTINF:-1,Br- GLOBO TV Verdes Mares Fortaleza HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32924
+#EXTINF:-1,Br- Globo TV Verdes Mares Fortaleza SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32925
+#EXTINF:-1,Br- Globosat HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32926
+#EXTINF:-1,Br- Gloob HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32927
+#EXTINF:-1,Br- GNT HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32928
+#EXTINF:-1,Br- H2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32929
+#EXTINF:-1,Br- HBO 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32930
+#EXTINF:-1,Br- HBO Family HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32931
+#EXTINF:-1,Br- HBO HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32932
+#EXTINF:-1,Br- HBO Plus HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32933
+#EXTINF:-1,Br- HBO Plus*e HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32934
+#EXTINF:-1,Br- HBO Signature HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32935
+#EXTINF:-1,Br- History Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32936
+#EXTINF:-1,Br- Lifetime HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32937
+#EXTINF:-1,Br- HBO Mundi HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32938
+#EXTINF:-1,Br- HBO Extreme HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32939
+#EXTINF:-1,Br- HBO Mundi SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32940
+#EXTINF:-1,Br- HBO Pop HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32941
+#EXTINF:-1,Br- Megapix HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32942
+#EXTINF:-1,Br- MTV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32943
+#EXTINF:-1,Br- MTV Live HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32944
+#EXTINF:-1,Br- Multishow HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32945
+#EXTINF:-1,BR- National Geographic Kids HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32947
+#EXTINF:-1,BR- National Geographic Wild HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32948
+#EXTINF:-1,BR- National Geographic HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32949
+#EXTINF:-1,Br- Nick Jr HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32950
+#EXTINF:-1,Br- Nickelodeon HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32951
+#EXTINF:-1,Br- Novo Tempo SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32952
+#EXTINF:-1,Br- Off HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32953
+#EXTINF:-1,Br- Paramount Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32954
+#EXTINF:-1,Br- Premiere 1 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32956
+#EXTINF:-1,Br- Premiere 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32957
+#EXTINF:-1,Br- Premiere 3 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32958
+#EXTINF:-1,Br- Premiere 4 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32959
+#EXTINF:-1,Br- Premiere 5 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32960
+#EXTINF:-1,Br- Premiere 6 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32961
+#EXTINF:-1,Br- Premiere 7 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32962
+#EXTINF:-1,Br- Premiere 8 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32963
+#EXTINF:-1,Br- Premiere Clubes HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32964
+#EXTINF:-1,Br- Record Campinas HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32965
+#EXTINF:-1,Br- Record DF SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32966
+#EXTINF:-1,Br- RECORD Amazonas HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32967
+#EXTINF:-1,Br- RedBull TV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32968
+#EXTINF:-1,Br- Record News HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32969
+#EXTINF:-1,Br- Record Nordeste HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32970
+#EXTINF:-1,Br- Record RJ SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32971
+#EXTINF:-1,Br- Record SP HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32972
+#EXTINF:-1,Br- Rede TV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32974
+#EXTINF:-1,Br- Rede Vida HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32975
+#EXTINF:-1,Br- TV Cultura PA
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32976
+#EXTINF:-1,Br- SBT SP HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32977
+#EXTINF:-1,Br- Sony HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32979
+#EXTINF:-1,Br- Space HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32980
+#EXTINF:-1,Br- SporTV 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33324
+#EXTINF:-1,Br- SporTV 3 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33326
+#EXTINF:-1,Br- SporTV HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33328
+#EXTINF:-1,Br- Studio Universal HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32984
+#EXTINF:-1,Br- SyFy HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32985
+#EXTINF:-1,Br- TBS SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32986
+#EXTINF:-1,Br- Telecine Action HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32987
+#EXTINF:-1,Br- Telecine Fun HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32989
+#EXTINF:-1,Br- Telecine Pipoca HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32990
+#EXTINF:-1,Br- Telecine Premium HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32991
+#EXTINF:-1,Br- Telecine Touch HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32992
+#EXTINF:-1,Br- TNT HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32993
+#EXTINF:-1,Br- TNT Séries HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32994
+#EXTINF:-1,Br- Tooncast HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32995
+#EXTINF:-1,Br- PPTV KIDS
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32996
+#EXTINF:-1,Br- TV Gazeta SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32997
+#EXTINF:-1,Br- Universal Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32998
+#EXTINF:-1,Br- VH1 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/32999
+#EXTINF:-1,Br- VH1 MegaHits SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33000
+#EXTINF:-1,Br- Viva HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33001
+#EXTINF:-1,Br- Warner Channel HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33002
+#EXTINF:-1,Br- Woohoo HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33003
+#EXTINF:-1,Br- Zoomoo HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33004
+#EXTINF:-1,Br- Warner Bross HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33006
+#EXTINF:-1,Br- Globo RPC Curitiba HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33007
+#EXTINF:-1,Br- SBT TV Cidade Verde Piaui SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33008
+#EXTINF:-1,Br- Sbt Cidade Verde HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33009
+#EXTINF:-1,Br- Globo INTER TV Cabugi RN SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33010
+#EXTINF:-1,Br- SBT RJ HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33011
+#EXTINF:-1,Br- Rede Gospel SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33012
+#EXTINF:-1,Br- Sony Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33013
+#EXTINF:-1,Br- TV Destak
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33014
+#EXTINF:-1,Br- Disney Junior HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33015
+#EXTINF:-1,Br- Globo TV Morena HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33016
+#EXTINF:-1,Br- Band Sport Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33017
+#EXTINF:-1,Br- Arte 1 Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33019
+#EXTINF:-1,Br- Paramount Channel Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33020
+#EXTINF:-1,Br- TCM SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33021
+#EXTINF:-1,Br- MTV Live Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33022
+#EXTINF:-1,Br- History Channel Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33023
+#EXTINF:-1,Br- ID Investigação Discovery HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33024
+#EXTINF:-1,Br- Record SP Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33026
+#EXTINF:-1,Br- Record TV Vitoria SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33027
+#EXTINF:-1,Br- ESPN Extra HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33183
+#EXTINF:-1,Br- TV Ra Tim Bum SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33040
+#EXTINF:-1,Br- TV Playkids
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33042
+#EXTINF:-1,Br- Nickelodeon Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33043
+#EXTINF:-1,Br- Band Sports Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33192
+#EXTINF:-1,Br- Discovery TLC Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33045
+#EXTINF:-1,Br- Fox Life Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33046
+#EXTINF:-1,Br- Ei Maxx Brasil
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33047
+#EXTINF:-1,Br- Cine 2
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33048
+#EXTINF:-1,Br- Fate 24/7
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33049
+#EXTINF:-1,Br- SPORT TV 3 SD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33050
+#EXTINF:-1,Br- Globosat Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33051
+#EXTINF:-1,Br- HBO Family Full HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33052
+#EXTINF:-1,Br- Globo RBS TV Pelotas HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33054
+#EXTINF:-1,Br- Multishow
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33055
+#EXTINF:-1,Br- Record RS HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33057
+#EXTINF:-1,Br- H2 Brasil
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33058
+#EXTINF:-1,Br- Globo TV Diario HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33060
