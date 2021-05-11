@@ -1,0 +1,35 @@
+#EXTINF:-1,NatGeo
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1,Animal Planet
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1,Discovery Channel
+https://cdn.esporteone.com/DISCOVERYSD/video.m3u8?md5=1fvCPun0hvR-HoqJ1c64Yw&expires=1620767960
+
+#EXTINF:-1,Discovery Turbo
+https://cdn.esporteone.com/DISCOVERYTURBOSD/video.m3u8?md5=V7sS0yAsmQAPKRkhhGRycw&expires=1620768052
+
+#EXTINF:-1,Discovery Home & Health
+https://cdn.esporteone.com/HOMEHEALTHSD/video.m3u8?md5=H-Uy2CZoE7j-tNYX-79gDg&expires=1620768608
+
+#EXTINF:-1,Telecine Premium
+https://cdn.esporteone.com/TELECINEPREMIUMSD/video.m3u8?md5=dLKsyTlG3SbOrYhNoqtuZw&expires=1620768222
+
+#EXTINF:-1,Telecine Action
+https://cdn.esporteone.com/TELECINEACTIONSD/video.m3u8?md5=PVzJ66_GSTs1WIn-WJu3bQ&expires=1620768287
+
+#EXTINF:-1,Telecine Pipoca
+https://cdn.esporteone.com/TELECINEPIPOCASD/video.m3u8?md5=OMtZRsMvhFJaLAx8jHG4uA&expires=1620768478
+
+#EXTINF:-1,Disney Channel 
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Fox Premium
+https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1620759975&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=bfada7a5ccb46da9224cbfda151ca93968bca0d7f569d0a823050ffecdfe4d24&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=11a579729504f8c5db9a466aaca9f22bc3a9252c20edb5439bea2c967ccb117f&pbs=40b99d7ee73e410bbd0d7770b050edde
+
+#EXTINF:-1,Universal TV
+https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=pH-uimdtfFsD5z4eK_p0Bg&expires=1620768841
+
+
+
