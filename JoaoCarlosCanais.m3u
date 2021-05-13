@@ -56,5 +56,14 @@ https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=pH-uimdtfFsD5z4eK_p0Bg&exp
 #EXTINF:-1 type="stream" tvg-name="Fox Sports" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_Sports_Premium_(Argentina)_-_2018_logo.png#/media/File:Fox_Sports_Premium_(Argentina)_-_2018_logo.png" group-title="CANAIS | ESPORTES", Fox Sports
 https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1620759975&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=bfada7a5ccb46da9224cbfda151ca93968bca0d7f569d0a823050ffecdfe4d24&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=11a579729504f8c5db9a466aaca9f22bc3a9252c20edb5439bea2c967ccb117f&pbs=40b99d7ee73e410bbd0d7770b050edde
 
+#EXTINF:-1 type="stream" tvg-name="Discovery World" tvg-logo="https://commons.wikimedia.org/wiki/File:World_Discovery_HD_logo.svg#/media/File:World_Discovery_HD_logo.svg" group-title="CANAIS | DOCUMENTÁRIOS", Discovery World
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryworldhd/video.m3u8?md5=fjEdFWOh88BWx4gHJ2g-hA&expires=1620961427
 
+#EXTINF:-1 type="stream" tvg-name="Animal Planet" tvg-logo="https://commons.wikimedia.org/wiki/File:Animal_Planet_logo.svg#/media/File:Animal_Planet_logo.svg" group-title="CANAIS | DOCUMENTÁRIOS", Animal Planet
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8?md5=1YAuQ6W8ELEsfRkOd1Cm-w&expires=1620961749
 
+#EXTINF:-1 type="stream" tvg-name="HBO" tvg-logo="https://commons.wikimedia.org/wiki/File:HBO-Logo.svg#/media/File:HBO-Logo.svg" group-title="CANAIS | FILMES", HBO
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8?md5=37v3Gpa7EO9rCnjEwSv0Rg&expires=1620961261
+
+#EXTINF:-1 type="stream" tvg-name="HBO2" tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_2_(2014).svg#/media/File:HBO_2_(2014).svg" group-title="CANAIS | FILMES", HBO2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8?md5=harEy15zvYQAATAsEAWAaA&expires=1620962846
